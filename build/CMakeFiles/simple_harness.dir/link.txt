@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/simple_harness.dir/harness/simple_harness.cpp.o -o simple_harness  /usr/lib/x86_64-linux-gnu/libz.so /usr/lib/x86_64-linux-gnu/libzstd.so /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
